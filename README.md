@@ -45,3 +45,11 @@
 4.  sudo nano /etc/zabbix/zabbix_agentd.conf
 - Перезапускаю агент:
 5.  sudo systemctl restart zabbix-agent
+## Задание 3* Установите Zabbix Agent на Windows (компьютер) и подключите его к серверу Zabbix.
+### Приложите скриншот раздела Latest Data, где видно свободное место на диске C:
+### Zabbix агент запущенный в windows: 
+![Снимок экрана (44)](https://user-images.githubusercontent.com/69298696/224624715-f2d89b77-60be-4d85-8912-eeb5420de3a5.png)
+### Агент подключенный на сервере:
+![Снимок экрана (47)](https://user-images.githubusercontent.com/69298696/224624970-71b81faf-4ef5-40cd-b416-88e203651d85.png)
+### Общее и свободное место на диске С:
+![Снимок экрана (45)](https://user-images.githubusercontent.com/69298696/224625303-662279b3-c308-4ae2-b031-57a86e318604.png)
